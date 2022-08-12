@@ -2,7 +2,7 @@ from setuptools import setup
 
 v = '4.10.1'
 setup(
-    name='antlr4-python2-runtime',
+    name='antlr4-python2-runtime-thieman',
     version=v,
     url='http://www.antlr.org',
     license='BSD',
